@@ -10,6 +10,10 @@ In this repository, you will find **120-second visual examples** explaining core
 
 The goal is to grasp the fundamentals of C programming efficiently, with just enough depth to build a solid foundation.
 
+## Process 
+
+Notes are originally taken in [Kortex](https://kortex.co) my markdown editor of choice which allows seamless template files for organization. Content is later stored here.
+
 ## Updates
 
 - **December 17, 2024**: Started the Classic C journey with basic setup and initial visual examples.
